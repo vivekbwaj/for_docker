@@ -1,0 +1,19 @@
+{
+  "name": "dockerize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "runjsfile": "node ./runjsfile/jsSplice.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekbwaj/for_docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekbwaj/for_docker/issues"
+  },
+  "homepage": "https://github.com/vivekbwaj/for_docker#readme"
+}
